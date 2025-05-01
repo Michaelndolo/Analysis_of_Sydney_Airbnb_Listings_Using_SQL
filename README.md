@@ -11,3 +11,5 @@ I played the role of the General Manager of Airbnb Sydney who was responsible fo
 ---
 
 I learnt about the foundations of SQL and mastered SQL basics including filtering and sorting data, aggregations, and complex filtering logic including  GROUP BY and HAVING clauses.
+
+Tools used: *Google Colab*
