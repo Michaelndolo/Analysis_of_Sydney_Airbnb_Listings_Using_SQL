@@ -1,12 +1,5 @@
 ## Analysis_of_Sydney_Airbnb_Listings_Using_SQL
 
-## Table of Contents
-
--[Project Overview](#project-overview)
-
--[My Learnings](#my-learnings)
-
-
 
 ### Project overview
 ---
